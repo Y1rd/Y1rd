@@ -1,0 +1,4 @@
+- Hey, im Yird (Named Y1rd on github because I couldn't get the name I wanted)
+- I not a (very great) programmer, so I really won't be commiting to any code
+- I'm also shy, but im chill (asumming you are too)
+- I don't know what else to put here...
