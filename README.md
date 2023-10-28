@@ -2,4 +2,4 @@
 - Social anxiety, but chill.
 - Reports issues whereever as needed
 - Learning javascript and just trying to be helpful.
-- Check out my awful [website](y1rd.github.io/gamedevmess/public/)!
+- Check out my awful website! y1rd.github.io/gamedevmess/public/
